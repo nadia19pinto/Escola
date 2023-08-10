@@ -12,6 +12,7 @@ $ligacao = ligarBD();
     <title>Document</title>
 </head>
 <body>
+ghghfghf
     
 </body>
 </html>
